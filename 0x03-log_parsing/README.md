@@ -1,6 +1,7 @@
 Log Parsing
 This project contains interview coding challenges.
 
+
 touch 0-stats.py
 chmod +x 0-stats.py
 chmod +x 0-generator.py
